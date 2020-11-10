@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Suphada Thongthai",
+  "author": "Nuttachai Subangate",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
